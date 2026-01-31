@@ -1,3 +1,4 @@
+Week 7: Introduction to Statistics for Data Science
 1. Project Overview
 Project Title: Customer Churn and Sales Data Analysis
 Project Goals and Objectives:
