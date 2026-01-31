@@ -1,0 +1,18 @@
+Hypothesis Testing Results
+==========================
+
+Test: ANOVA: MonthlyCharges vs Contract
+Statistic: 0.031
+p-value: 0.969
+Conclusion: No significant difference
+
+Test: t-test: MonthlyCharges Senior vs Non-Senior
+Statistic: -2.372
+p-value: 0.018
+Conclusion: Significant difference
+
+Test: Chi-Square: PaperlessBilling vs Churn
+Statistic: 0.047
+p-value: 0.829
+Conclusion: No significant association
+
